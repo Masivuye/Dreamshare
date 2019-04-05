@@ -1,2 +1,0 @@
-# Dreamshare
-Limabean entrance test
